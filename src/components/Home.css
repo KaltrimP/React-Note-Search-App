@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(223, 135, 240);
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  position: relative;
+  width: 30%;
+  left: 35%;
+}
+
+.update-container {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  position: relative;
+  width: 30%;
+  left: 35%;
+  margin-top: 10%;
+
+}
+
+.searchIt {
+  position: absolute;
+  left: 2%;
+  top: 10%;
+}

@@ -1,0 +1,14 @@
+
+.search {
+  position: absolute;
+  left: 0%;
+  top: 5%;
+}
+
+.card-container {
+  display: block;
+}
+
+body {
+  background-color: darkkhaki;
+}
